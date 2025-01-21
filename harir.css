@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Harir';
+  src: url('https://github.com/Zid-theme55/home-page-video/raw/refs/heads/main/Harir_complete_OTF_Harir.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Harir', sans-serif;
+}
